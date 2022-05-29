@@ -16,5 +16,11 @@ npm install
 # use truffle test
 to run Moch and Chai testing suite
 
+# setup ganache
+(as a local blockchain)
+
+# open metamask wallet
+(for doing transactions)
+
 # Activate Application
 Go into the App.js folder and replace the current inactive API key with your API key.
