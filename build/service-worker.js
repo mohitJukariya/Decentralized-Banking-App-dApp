@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Decentralized_Banking_App_dApp-mj/precache-manifest.15b7e3fb3d8c9f17eded499155b38d55.js"
+  "/Decentralized-Banking-App-dApp/precache-manifest.612f6e6d9b790cfe6d21cec47e1600f0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Decentralized_Banking_App_dApp-mj/index.html", {
+workbox.routing.registerNavigationRoute("/Decentralized-Banking-App-dApp/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
