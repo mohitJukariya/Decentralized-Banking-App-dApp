@@ -7,20 +7,20 @@ npm install
 
 ## 3. Make sure truffle -g is installed
 
-# use truffle compiile
+# 4. use truffle compiile
 (compile contracts)
 
-# use truffle migrate --reset
+# 5. use truffle migrate --reset
 (migrate contracts on the blockchain)
 
-# use truffle test
+# 6. use truffle test
 to run Moch and Chai testing suite
 
-# setup ganache
+# 7. setup ganache
 (as a local blockchain)
 
-# open metamask wallet
+# 8. open metamask wallet
 (for doing transactions)
 
-# Activate Application
+# 9. Activate Application
 Go into the App.js folder and replace the current inactive API key with your API key.
