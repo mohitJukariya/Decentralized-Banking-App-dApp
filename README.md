@@ -1,7 +1,7 @@
 # Decentralized-Banking-App-dApp
 
 # Overview of the project
-This project includes a Decentralized Banking App in which user can deposit and withdraw money to/from Bank.
+This project includes a Decentralized Banking App in which user can deposit and withdraw tokens to/from Bank.
 
 ## 1. To Clone or download this project simply run:
 git clone https://github.com/mohitJukariya/Decentralized-Banking-App-dApp.git
